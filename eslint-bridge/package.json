@@ -54,6 +54,7 @@
     "eslint": "7.32.0",
     "eslint-plugin-chai-friendly": "0.7.2",
     "eslint-plugin-sonarjs": "0.10.0",
+    "espree": "^5.0.1",
     "express": "4.17.1",
     "functional-red-black-tree": "1.0.1",
     "regexpp": "3.2.0",
